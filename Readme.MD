@@ -1,0 +1,1 @@
+This is just a practice project. Building this project by following the book `Django for APIs` of William S. Vincent. This project is only based on chapter 2.
